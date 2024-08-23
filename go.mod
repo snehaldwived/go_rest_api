@@ -1,7 +1,7 @@
 module github.com/snehaldwived/go_rest-api
 // module github.com/TomFern/go-mux-api
 
-go 1.22.6
+go 1.23
 
 require (
 	github.com/gorilla/mux v1.8.1 // indirect
